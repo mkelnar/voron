@@ -23,3 +23,6 @@ https://www.klipper3d.org/CANBUS.html
 
 test canbus: (connect device and run from rpi)
 ~/klippy-env/bin/python ~/klipper/scripts/canbus_query.py can0
+
+
+https://www.klipper3d.org/Measuring_Resonances.html
